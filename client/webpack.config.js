@@ -38,6 +38,7 @@ module.exports = () => {
         description: 'Yet another text editor!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
+        id: '/',
         start_url: './',
         publicPath: './',
         icons: [
